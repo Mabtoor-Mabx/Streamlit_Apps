@@ -1,8 +1,4 @@
-streamlit
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-scipy
-keras
+pandas==1.4.2
+scikit_learn==1.1.2
+seaborn==0.11.2
+streamlit==1.12.0
